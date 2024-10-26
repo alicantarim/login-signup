@@ -2,7 +2,7 @@
 
 ## Login Screen
 
-![Login Screen] (/src/Components/Assets/LoginScreen.png)
+![Login Screen] (src/Components/Assets/LoginScreen.png)
 <img src="../login-signup/src/Components/Assets/LoginScreen.png" alt="" />
 <br/>
 <br/>
