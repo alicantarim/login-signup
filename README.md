@@ -2,12 +2,14 @@
 
 ## Login Screen
 
-<img src="../login-signup/src/Components/Assets/LoginScreen.png" alt="ssss" />
+![Login Screen] (login-signup / src / Components / Assets / LoginScreen.png)
+<img src="../login-signup/src/Components/Assets/LoginScreen.png" alt="" />
 <br/>
 <br/>
 
 ## SignUp Screen
 
+![SignUp Screen] (login-signup / src / Components / Assets / SignUpScreen.png)
 <img src="../login-signup/src/Components/Assets/SignUpScreen.png" alt="" />
 
 # Getting Started with Create React App
