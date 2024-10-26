@@ -2,15 +2,13 @@
 
 ## Login Screen
 
-![Login Screen] (login-signup/src/Components/Assets/LoginScreen.png)
-<img src="../login-signup/src/Components/Assets/LoginScreen.png" alt="" />
+![LoginScreen](https://github.com/user-attachments/assets/ff483ef9-f216-4e71-af6f-4aff42540dfe)
 <br/>
 <br/>
 
 ## SignUp Screen
 
-![SignUp Screen] (login-signup / src / Components / Assets / SignUpScreen.png)
-<img src="../login-signup/src/Components/Assets/SignUpScreen.png" alt="" />
+![SignUpScreen](https://github.com/user-attachments/assets/dcbe6234-cf56-4153-af38-b1a2e67020c1)
 
 # Getting Started with Create React App
 
